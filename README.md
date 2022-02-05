@@ -1,2 +1,3 @@
 # Api-DevNotes-Nodejs
-Api simples feita em Nodejs. Crud completo. 
+Desenvolvimento de Api em NodeJs com framework express no padrão MVC utlizando o mysql. 
+Crud completo (SELECT, INSERT, UPDATE, DELETE);
